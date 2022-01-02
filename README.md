@@ -1,3 +1,3 @@
-# JNSNKRLLIVE
+# KARJANME
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jnsnkrllive)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karjanme)
